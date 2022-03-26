@@ -6,7 +6,7 @@ I'm active participant in Hackathons and have won a number of them. Also an arde
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emmaodia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[!Contribution Graph](https://activity-graph.herokuapp.com/graph?username=emmaodia&custom_title=Emmanuel%20Contribution%20Graph&theme=react-dar)
+<img alt="Emmanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emmaodia&custom_title=Emmanuel%20Contribution%20Graph&theme=react-dar" />
 
 <!--
 **emmaodia/emmaodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
