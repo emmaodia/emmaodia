@@ -2,10 +2,6 @@
 
 I currently work as a Developer Relations Engineer at https://covalenthq.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emmaodia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img alt="Emmanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emmaodia&custom_title=Emmanuel%20Contribution%20Graph&theme=react-dar" />
-
 <!--
 **emmaodia/emmaodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
