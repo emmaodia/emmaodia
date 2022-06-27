@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently work as a Developer Relations Engineer at https://covalenthq.com
+I'm a Web3 Developer. I write JavaScript and Solidity. I'm currently learning Rust.
 
 <!--
 **emmaodia/emmaodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
