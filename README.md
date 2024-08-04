@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I write JavaScript and Solidity.
+I build Software Applications for web2 and web3. I code in JavaScript and Solidity.
+I also write technical articles and professionally drive developer relations programs. 
 
 <!--
 **emmaodia/emmaodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
